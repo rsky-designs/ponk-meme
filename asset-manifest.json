@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d0d2487.css",
+    "main.js": "/static/js/main.2521c962.js",
+    "static/media/ponk-1.png": "/static/media/ponk-1.8cf85c65f3a0a67068c6.png",
+    "static/media/Inconsolata-Variable.ttf": "/static/media/Inconsolata-Variable.ecc7975f1fb4ad9869f1.ttf",
+    "static/media/coin-1.png": "/static/media/coin-1.4b192687413ef1514081.png",
+    "static/media/Oswald-Variable.ttf": "/static/media/Oswald-Variable.081935b0034a515c1872.ttf",
+    "static/media/ponk-4.jpg": "/static/media/ponk-4.8adc6996eeb07275d1a7.jpg",
+    "static/media/DMSerifDisplay-Regular.ttf": "/static/media/DMSerifDisplay-Regular.3dc35422a8813390b30f.ttf",
+    "index.html": "/index.html",
+    "main.8d0d2487.css.map": "/static/css/main.8d0d2487.css.map",
+    "main.2521c962.js.map": "/static/js/main.2521c962.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d0d2487.css",
+    "static/js/main.2521c962.js"
+  ]
+}
