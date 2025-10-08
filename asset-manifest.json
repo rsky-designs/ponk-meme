@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.da9e7510.css",
-    "main.js": "/static/js/main.4c45ded8.js",
+    "main.js": "/static/js/main.fec316e0.js",
     "static/media/ponk-1.png": "/static/media/ponk-1.8cf85c65f3a0a67068c6.png",
     "static/media/Inconsolata-Variable.ttf": "/static/media/Inconsolata-Variable.ecc7975f1fb4ad9869f1.ttf",
     "static/media/coin-1.png": "/static/media/coin-1.4b192687413ef1514081.png",
@@ -10,10 +10,10 @@
     "static/media/DMSerifDisplay-Regular.ttf": "/static/media/DMSerifDisplay-Regular.3dc35422a8813390b30f.ttf",
     "index.html": "/index.html",
     "main.da9e7510.css.map": "/static/css/main.da9e7510.css.map",
-    "main.4c45ded8.js.map": "/static/js/main.4c45ded8.js.map"
+    "main.fec316e0.js.map": "/static/js/main.fec316e0.js.map"
   },
   "entrypoints": [
     "static/css/main.da9e7510.css",
-    "static/js/main.4c45ded8.js"
+    "static/js/main.fec316e0.js"
   ]
 }
